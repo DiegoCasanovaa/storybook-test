@@ -1,8 +1,8 @@
 
 export interface IButton { 
-      /**
-         * Text a mostrar dentro del boton
-        */
+    /**
+     * Texto a mostrar dentro del boton
+    */
     label: string;
     /**
    * Modo del boton del siguiente listado:
