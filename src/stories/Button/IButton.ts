@@ -7,7 +7,7 @@ export interface IButton {
     /**
    * Modo del boton del siguiente listado:
    */
-    mode: 'primary' | 'secondary' | 'tertiary' | 'success' | 'error' ;
+    mode: 'primary' | 'secondary' | 'tertiary' | 'success' | 'error' | 'info' ;
         /**
    * Tamaño del boton del siguiente listado:
    */

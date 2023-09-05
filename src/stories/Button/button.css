@@ -23,6 +23,10 @@
     color: white;
     background-color: rgb(60, 119, 1);
   }
+  .storybook-button--info {
+    color: white;
+    background-color: rgb(120, 233, 233);
+  }
   .storybook-button--error {
     color: white;
     background-color: red;

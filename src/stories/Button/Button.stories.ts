@@ -42,6 +42,15 @@ type Story = StoryObj<typeof Button>;
     },
   };
 
+  export const Info: Story = {
+    args: {
+      label:'Info',
+      mode: 'info',
+      onClick: ()=> alert('Hola'),
+      size:'medium'
+    },
+  };
+
   export const Success: Story = {
     args: {
       label:'Success',
